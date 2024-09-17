@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Django, NextJS and Docker**
 
-- 📄 Resume [https://drive.google.com/file/d/1rf0M8f1obLbKrT_2RKsF5xv6utuvAh7D/view?usp=sharing](https://drive.google.com/file/d/1rf0M8f1obLbKrT_2RKsF5xv6utuvAh7D/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1rf0M8f1obLbKrT_2RKsF5xv6utuvAh7D/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
