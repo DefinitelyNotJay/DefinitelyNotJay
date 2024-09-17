@@ -13,7 +13,7 @@ Hi! I’m a Fullstack Developer who loves building websites and apps. I enjoy le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DefinitelyNotJay&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DefinitelyNotJay&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DefinitelyNotJay&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DefinitelyNotJay&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
