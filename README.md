@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤞🏻, I'm Supakorn Sathitsuk (Jay)</h1>
-<h3 align="center">Hi! I’m a Fullstack Developer who loves building websites and apps. I enjoy learning new tools and creating solutions that make life easier. When I’m not coding, you’ll find me reading books, watching TV series, or playing guitar. These hobbies help me stay creative and inspired in my work. Let’s build something cool together!</h3>
+<h3>Hi! I’m a Fullstack Developer who loves building websites and apps. I enjoy learning new tools and creating solutions that make life easier. When I’m not coding, you’ll find me reading books, watching TV series, or playing guitar. These hobbies help me stay creative and inspired in my work. Let’s build something cool together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=definitelynotjay&label=Profile%20views&color=0e75b6&style=flat" alt="definitelynotjay" /> </p>
 
